@@ -25,7 +25,7 @@ My research focuses on nonpolyhedral matrix optimization, including the variatio
 
 ## Education
 
-- Ph.D. in Operational Research and Cybernetics, Institute of Applied Mathematics, Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, China, 2018-2023.
+- Ph.D. in Operational Research and Cybernetics, Institute of Applied Mathematics, Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, China, 2018-2023. 
 - B.S. in Information and Computing Science, Dalian University of Technology, China, 2014-2018.
 
 ## Experience
